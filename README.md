@@ -38,7 +38,7 @@
 - HTML5
 - CSS3 (modular css)
 - [React](https://reactjs.org/)
-- [Next.j](nextjs.org/)
+- [Next.js](nextjs.org/)
 
 
 ## Acknowledgements
@@ -49,7 +49,7 @@
 - [JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
 - [React Redux Quick Start](https://react-redux.js.org/tutorials/quick-start)
 - [React](https://reactjs.org/)
-- [Next.j](nextjs.org/)
+- [Next.js](nextjs.org/)
 
 ## Contact
 
