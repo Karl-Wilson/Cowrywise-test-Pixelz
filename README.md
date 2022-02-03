@@ -1,34 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Photo Grid - Pixelz</h1>
 
-## Getting Started
+<div align="center">
+   Solution for Frontend Test challenge from  <a href="https://cowrywise.com" target="_blank">Cowrywise</a>.
+</div>
 
-First, run the development server:
+<div align="center">
+  <h3>
+    <a href="https://cowrywise-test-pixelz.vercel.app/">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://www.notion.so/cowrywise/Frontend-Engineer-Test-3a4aeb677c604ca9b41cdac102d2f974">
+      Test
+    </a>
+  </h3>
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<!-- TABLE OF CONTENTS -->
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Table of Contents
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- [Overview](#overview)
+  - [Built With](#built-with)
+- [Contact](#contact)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<!-- OVERVIEW -->
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Overview
 
-## Learn More
+![](./pixelz.png)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Built With
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-## Deploy on Vercel
+- HTML5
+- CSS3 (modular css)
+- [React](https://reactjs.org/)
+- [Next.j](nextjs.org/)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Acknowledgements
+
+<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
+
+- [Unsplash API](https://unsplash.com/developers)
+- [JavaScript Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
+- [React Redux Quick Start](https://react-redux.js.org/tutorials/quick-start)
+- [React](https://reactjs.org/)
+- [Next.j](nextjs.org/)
+
+## Contact
+
+- GitHub [@Karl-Wilson](https://{github.com/Karl-Wilson})
+- Instagram [@developerkarl](https://{instagram.com/developerkarl})
