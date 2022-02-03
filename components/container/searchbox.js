@@ -33,8 +33,8 @@ const Searchbox = props =>{
             <SearchIcon onClick={props.onClick}/>
             <Search  onChange={props.onChange} value={props.field} placeholder="Search for photo"/>
             </>}
-            {(!isLoading && query) && <SearchResultInfo>Search Results for <span> &quot;{query} &quot;</span></SearchResultInfo>}
-            {(isLoading && query) && <SearchResultInfo>Searching Results for <span> &quot;{query} &quot;</span></SearchResultInfo>}
+            {(!isLoading && query) && <SearchResultInfo>Search Results for <span>&quot;{query}&quot;</span></SearchResultInfo>}
+            {(isLoading && query) && <SearchResultInfo>Searching Results for <span>&quot;{query}&quot;</span></SearchResultInfo>}
         </Wrapper>
     )
 }
