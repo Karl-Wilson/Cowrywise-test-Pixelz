@@ -1,7 +1,7 @@
 <h1 align="center">Photo Grid - Pixelz</h1>
 
 <div align="center">
-   Solution for Frontend Test challenge from  <a href="https://cowrywise.com" target="_blank">Cowrywise</a>.
+   Solution for Frontend Engineer Test challenge from  <a href="https://cowrywise.com" target="_blank">Cowrywise</a>.
 </div>
 
 <div align="center">
