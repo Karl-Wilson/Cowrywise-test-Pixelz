@@ -34,7 +34,7 @@ const FloatWrapper = styled.div`
 export const SearchIcon =  props =>{
      return(
          <Wrapper {...props}>
-            <img src="/images/search.png" width="15px"/>
+            <img src="/images/search.png" width="15px" alt="search-icon"/>
          </Wrapper>
      )
 }
@@ -43,7 +43,7 @@ export const SearchIconFloat = props =>{
     
     return(
         <FloatWrapper {...props}>
-            <img src="/images/search.png" width="50%"/>
+            <img src="/images/search.png" width="50%" alt="search-icon"/>
         </FloatWrapper>
     )
 }
